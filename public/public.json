@@ -1,0 +1,107 @@
+// [
+//     {
+//       "id": "1",
+//       "cover_image": "/images/cover98765.jpg",
+//       "title": "Enigma of the Abyss",
+//       "author": "David Rivers",
+//       "author_img": "https://images.unsplash.com/photo-1500964757637-c85e8a162699?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y292ZXIlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D",
+//       "posted_date": "2024-04-18",
+//       "reading_time": 45,
+//       "hashtag": "#MysteryAdventure"
+//     },
+//     {
+//       "id": "2",
+//       "cover_image": "/images/cover12345.png",
+//       "title": "The Quantum Code",
+//       "author": "Sarah Johnson",
+//       "author_img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y292ZXIlMjBpbWFnZSUyMGJsb2d8ZW58MHx8MHx8fDA%3D",
+//       "posted_date": "2024-04-20",
+//       "reading_time": 120,
+//       "hashtag": "#SciFiThriller"
+//     },
+//     {
+//       "id": "3",
+//       "cover_image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=1476&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+//       "title": "Shadows in the Mist",
+//       "author": "Benjamin Knight",
+//       "author_img": "/images/authors/benjamin_knight.jpg",
+//       "posted_date": "2024-04-15",
+//       "reading_time": 35,
+//       "hashtag": "#HorrorSuspense"
+//     },
+//     {
+//       "id": "4",
+//       "cover_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+//       "title": "Shadows",
+//       "author": "Rachel Adams",
+//       "author_img": "/images/authors/rachel_adams.jpg",
+//       "posted_date": "2024-04-25",
+//       "reading_time": 50 ,
+//       "hashtag": "#FantasyAdventure"
+//     },
+//     {
+//       "id": "5",
+//       "cover_image": "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+//       "title": "Serenade of Stardust",
+//       "author": "Daniel Lee",
+//       "author_img": "/images/authors/daniel_lee.jpg",
+//       "posted_date": "2024-04-10",
+//       "reading_time": 40 ,
+//       "hashtag": "#SpaceOpera"
+//     }
+//   ]
+  
+
+[
+    {
+      "id": "1",
+      "cover_image": "/images/cover98765.jpg",
+      "title": "Enigma of the Abyss",
+      "author": "David Rivers",
+      "author_img": "https://images.unsplash.com/photo-1500964757637-c85e8a162699?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y292ZXIlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D",
+      "posted_date": "2024-04-18",
+      "reading_time": 45,
+      "hashtag": "#MysteryAdventure"
+    },
+    {
+      "id": "2",
+      "cover_image": "/images/cover12345.png",
+      "title": "The Quantum Code",
+      "author": "Sarah Johnson",
+      "author_img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y292ZXIlMjBpbWFnZSUyMGJsb2d8ZW58MHx8MHx8fDA%3D",
+      "posted_date": "2024-04-20",
+      "reading_time": 120,
+      "hashtag": "#SciFiThriller"
+    },
+    {
+      "id": "3",
+      "cover_image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=1476&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Shadows in the Mist",
+      "author": "Benjamin Knight",
+      "author_img": "/images/authors/benjamin_knight.jpg",
+      "posted_date": "2024-04-15",
+      "reading_time": 35,
+      "hashtag": "#HorrorSuspense"
+    },
+    {
+      "id": "4",
+      "cover_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+      "title": "Shadows",
+      "author": "Rachel Adams",
+      "author_img": "/images/authors/rachel_adams.jpg",
+      "posted_date": "2024-04-25",
+      "reading_time": 50,
+      "hashtag": "#FantasyAdventure"
+    },
+    {
+      "id": "5",
+      "cover_image": "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Serenade of Stardust",
+      "author": "Daniel Lee",
+      "author_img": "/images/authors/daniel_lee.jpg",
+      "posted_date": "2024-04-10",
+      "reading_time": 40,
+      "hashtag": "#SpaceOpera"
+    }
+  ]
+  
